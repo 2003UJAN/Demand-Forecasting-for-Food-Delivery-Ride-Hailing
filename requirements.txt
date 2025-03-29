@@ -1,0 +1,8 @@
+pandas
+numpy
+tensorflow
+keras
+fbprophet
+scikit-learn
+streamlit
+plotly
