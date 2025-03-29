@@ -2,7 +2,8 @@ pandas
 numpy
 tensorflow
 keras
-fbprophet
+prophet
 scikit-learn
 streamlit
 plotly
+cmdstanpy
